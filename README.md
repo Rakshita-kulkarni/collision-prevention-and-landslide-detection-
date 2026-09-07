@@ -13,42 +13,30 @@ During a detected landslide event, the system automatically closes both barricad
 
 <!-- ADD HARDWARE IMAGE HERE -->
 
-![Hardware Setup](images/hardware.jpg)
+![Hardware Setup](hardware.png)
 
 
 ### 🖥️ OLED Display
 
 <!-- ADD OLED OUTPUT IMAGE HERE -->
 
-![OLED Output](images/oled-output.jpg)
+![OLED Output](oled-output.png)
 
 
 ### 🌐 Web Dashboard
 
 <!-- ADD WEB DASHBOARD IMAGE HERE -->
 
-![Web Dashboard](images/dashboard.png)
+![Web Dashboard](dashboard.png)
 
-
-### 🚗 Collision Prevention
-
-<!-- ADD COLLISION PREVENTION OUTPUT IMAGE HERE -->
-
-![Collision Prevention](images/collision-prevention.jpg)
 
 
 ### ⚠️ Landslide Detection
 
 <!-- ADD LANDSLIDE DETECTION OUTPUT IMAGE HERE -->
 
-![Landslide Detection](images/landslide-detection.jpg)
+![Landslide Detection](landslide-detection.png)
 
-
-### 📱 WhatsApp Emergency Alert
-
-<!-- ADD WHATSAPP ALERT IMAGE HERE -->
-
-![WhatsApp Alert](images/whatsapp-alert.jpg)
 
 
 ## 🎯 Objectives
